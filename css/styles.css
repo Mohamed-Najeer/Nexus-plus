@@ -3,6 +3,10 @@
 font-size: 9px;
 font-weight: bold;
 }
+.logo{
+  width: 120px;
+  height: 50px;
+}
 .menubg{
   background-color: white;
 }
